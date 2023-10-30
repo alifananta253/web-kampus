@@ -43,7 +43,7 @@ const router = createRouter({
 })
 const title = document.title;
 window.addEventListener("blur", () => {
-  document.title = "Back Here !!";
+  document.title = "BSI SOFTWARE ENGINEERING 2021";
 });
 
 window.addEventListener("focus", () => {
