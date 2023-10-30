@@ -1,0 +1,33 @@
+
+            {
+                "id_mahasiswa": 2,
+                "nama_mahasiswa": "Rahmat",
+                "username_ig": "rahnatarayyan05",
+                "foto_mahasiswa":"mahasiswa/2.jpg"
+            },
+            {
+                "id_mahasiswa": 3,
+                "nama_mahasiswa": "Zainul",
+                "username_ig": "delaprilisia",
+                "foto_mahasiswa":"mahasiswa/3.jpg"
+            },
+
+            {
+                "id_mahasiswa": 7,
+                "nama_mahasiswa": "Danny",
+                "username_ig": "dannypratama088",
+                "foto_mahasiswa":"mahasiswa/7.jpg"
+            },
+            {
+                "id_mahasiswa": 8,
+                "nama_mahasiswa": "Amir",
+                "username_ig": "firmandarmawan7",
+                "foto_mahasiswa":"mahasiswa/8.jpg"
+            },
+            {
+                "id_mahasiswa": 9,
+                "nama_mahasiswa": "Dobson",
+                "username_ig": "dobsonmatanari",
+                "foto_mahasiswa":"mahasiswa/4.jpg"
+            },
+            

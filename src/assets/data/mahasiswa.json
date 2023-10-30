@@ -1,0 +1,45 @@
+{
+        "message": "Data Mahasiswa",
+        "data":[
+            {
+                "id_mahasiswa": 1,
+                "nama_mahasiswa": "Farhan",
+                "username_ig": "mfrhn_24",
+                "foto_mahasiswa":"mahasiswa/1.jpg"
+            },
+
+            {
+                "id_mahasiswa": 4,
+                "nama_mahasiswa": "Hilal",
+                "username_ig": "fadilla.41",
+                "foto_mahasiswa":"mahasiswa/9.jpg"
+            },
+            {
+                "id_mahasiswa": 5,
+                "nama_mahasiswa": "Alif",
+                "username_ig": "alifananta5",
+                "foto_mahasiswa":"mahasiswa/5.jpg"
+            },
+            {
+                "id_mahasiswa": 6,
+                "nama_mahasiswa": "Wigi",
+                "username_ig": "wigifauzi24",
+                "foto_mahasiswa":"mahasiswa/6.jpg"
+            },
+            
+            
+            {
+                "id_mahasiswa": 10,
+                "nama_mahasiswa": "Jane",
+                "username_ig": "j.thecuwiiinyam",
+                "foto_mahasiswa":"mahasiswa/10.jpg"
+            },
+            {
+                "id_mahasiswa": 11,
+                "nama_mahasiswa": "Masda",
+                "username_ig": "chim.peekaboo",
+                "foto_mahasiswa":"mahasiswa/11.jpg"
+            }
+        
+	]
+}	
