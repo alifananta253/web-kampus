@@ -52,8 +52,8 @@
                 </li>
                <li class="group">
                   <a href="https://topup.reservasi-gkm.com/" target="_blank"
-  class="font-normal text-slate-100 py-2 px-6 flex hover:bg-primary lg:hover:bg-[#222222] lg:hover:text-primary transition duration-500 ease-in-out"
->Topup Sosmed</a>
+                  class="font-normal text-slate-100 py-2 px-6 flex hover:bg-primary lg:hover:bg-[#222222] lg:hover:text-primary transition duration-500 ease-in-out"
+                >Topup Sosmed</a>
                 </li> 
                 
               </ul>
