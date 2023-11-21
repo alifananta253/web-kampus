@@ -7,7 +7,12 @@
                 "username_ig": "mfrhn_24",
                 "foto_mahasiswa":"mahasiswa/farhan.jpg"
             },
-
+            {
+                "id_mahasiswa": 2,
+                "nama_mahasiswa": "Zainul",
+                "username_ig": "nothiuncy",
+                "foto_mahasiswa":"mahasiswa/zainul.jpeg"
+            },
             {
                 "id_mahasiswa": 4,
                 "nama_mahasiswa": "Hilal",
