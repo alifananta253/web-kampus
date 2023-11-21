@@ -15,7 +15,7 @@
               <p
                 class="text-lg md:text-xl dark:text-secondarydark mb-10 leading-relaxed lg:text-lg text-white pt-2"
               >
-                Website ini untuk menyimpan moment selama perkuliahan satu angkatan ini
+                Website ini untuk foto-foto mahasiswa Rekayasa Perangkat Lunak dan menyimpan moment selama perkuliahan satu angkatan ini
               </p>
               <router-link
                 :to="{ name: 'mahasiswa' }"
