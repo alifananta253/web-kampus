@@ -22,7 +22,7 @@
 </svg>
     </div>
     <div class="container pt-24 mb-20">
-      <h1>Topup Sosmed<a href="https://topup.reservasi-gkm.com/"></h1>
+      <h1>Topup Sosmed</h1>
       
     </div>
   </section>
