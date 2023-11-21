@@ -50,7 +50,15 @@
                     >Mahasiswa</router-link
                   >
                 </li>
-                
+               <li class="group">
+                  <router-link
+                    :class="{ 'active-page': isActivePage('mahasiswa') }"
+                    @click="closeNavbar"
+                    :to="{ name: 'mahasiswa' }"
+                    class="font-normal text-slate-100 py-2 px-6 flex hover:bg-primary lg:hover:bg-[#222222] lg:hover:text-primary transition duration-500 ease-in-out"
+                    >Topup Sosmed</router-link
+                  >
+                </li> 
                 
               </ul>
             </nav>
