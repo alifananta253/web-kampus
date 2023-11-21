@@ -21,7 +21,15 @@
 </defs>
 </svg>
     </div>
-    <h1>Photos/<b>Mahasiswa</b></h1>
+    <div class="container pt-24 mb-20">
+      <h1>Topup Sosmed<a href="https://topup.reservasi-gkm.com/"></h1>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-4" v-if="isLoading" data-aos="fade-up">
+        <CardSekeleton :DataMahasiswa="DataMahasiswa" />
+        </div>
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-4" v-else>
+        <CardComponents :DataMahasiswa="DataMahasiswa" />
+      </div>
+    </div>
   </section>
 </template>
 
