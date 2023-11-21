@@ -10,6 +10,7 @@
       </div>
     </div>
     <div class="fixed lg:-bottom-8 bottom-0 w-full">
+    
 <svg viewBox="0 0 1280 125" fill="none" xmlns="http://www.w3.org/2000/svg" data-aos="fade-up" data-aos-delay="800">
 <path d="M0 0L71.1111 10.7C142.222 21 284.444 43 426.667 42.7C568.889 43 711.111 21 853.333 10.7C995.556 -2.86102e-06 1137.78 0 1208.89 0H1280V125H1208.89C1137.78 125 995.556 125 853.333 125C711.111 125 561.222 125 419 125C276.778 125 142.222 125 71.1111 125H0V0Z" fill="url(#paint0_linear_16_912)"/>
 <defs>
@@ -19,6 +20,9 @@
 </linearGradient>
 </defs>
 </svg>
+    </div>
+    <div class="container pt-24 mb-20">
+      <h1><a href="https://topup.reservasi-gkm.com/">Topup Sosmed</a></h1>
     </div>
   </section>
 </template>
